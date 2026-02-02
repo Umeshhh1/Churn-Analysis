@@ -19,13 +19,13 @@ Tools & Technologies:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Business Impact:
+Project Insights/ Business Impact:
 
-   • Identified high-risk churn customers, enabling targeted retention strategies.
+   • Identified key factors influencing churn within the dataset, such as usage patterns and customer segments.
 
-   • Provided actionable insights on key churn drivers such as usage patterns and customer segments.
+   • Generated actionable insights from dashboards to simulate data-driven retention strategies.
 
-   • Enabled business teams to monitor churn KPIs in real time through Power BI dashboards, supporting proactive decision-making and improved customer retention.
+   • Highlighted patterns and trends in customer behavior that could guide hypothetical business decisions.
 
 
 
